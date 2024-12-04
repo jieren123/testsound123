@@ -21,7 +21,7 @@ The following dependencies are required to run the notebook:
 - **scikit-learn**: 1.3.0
 - **tqdm**: 4.66.1
 
-## Dataset
+## Datasets
 The following datasets used in this project:
 - **O1** 
 - **ESC-50**
